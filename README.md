@@ -1,1 +1,1 @@
-使用esp8285物联网模块+stm32f407vet6+hal库，实现相互通信收发。
+Based on ESP8285 IoT module + STM32F407VT6+HAL library, mutual communication transmission and reception are realized.
