@@ -1,11 +1,5 @@
 /**
- * @brief:                  基于HAL库的ESP8266驱动
- * @Revision:               V1.0
- * @author:                 点灯大师
- * @Affiliated unit：       	黄河科技学院
- * @Email:                  im_leihao@163.com
- * @github:                 https://github.com/zleihao
- * @note                    以下驱动移植野火WIFI全程
+ 以下驱动移植野火WIFI全程
  */
 #include "esp8266.h"
 
